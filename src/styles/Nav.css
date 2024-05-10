@@ -1,0 +1,21 @@
+.nav {
+    width: 100vw;
+    height: 75px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 5rem;
+}
+
+.logo {
+    margin-left: 15rem;
+}
+
+.img {
+    object-fit: cover;
+}
+
+.menu {
+    margin-right: 15rem;
+}
